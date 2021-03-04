@@ -25,7 +25,7 @@ Resources:
           paws_secret_param_name:
           paws_api_client_id:
           paws_collector_param_string_1:
-          paws_collector_param_string_2:
+          collector_streams:
           paws_api_secret:
           APP_SUBSCRIPTION_ID:
           AZURE_APP_TENANT_ID:
